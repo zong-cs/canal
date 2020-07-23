@@ -46,5 +46,7 @@ public class ClusterCanalClientTest extends AbstractCanalClientTest {
             }
 
         });
+        System.out.println("测试git");
+        System.out.println("测试git-amend");
     }
 }
